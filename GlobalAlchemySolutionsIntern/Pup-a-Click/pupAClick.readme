@@ -12,4 +12,6 @@ For my functionality, I chose to use a fetch function to call the API and added 
 
 I played around with the CSS for fun on this project. I coordinated the font and color of the text with the button for continuity. I made the background color one of my favorite colors and the sizing to a pleasing and easy to read size. 
 
-I kept the justification of the page to be the center and sized the images to exceed no larger than 400px so the button never got pushed below visibility in the window. 
+I kept the justification of the page to be the center and sized the images to exceed no larger than 400px to assist in the visibility of the button.
+
+As requested, the page does not render with every click, but fetches in the information only.
