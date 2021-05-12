@@ -1,0 +1,15 @@
+Contained in this project is a simple fetch API using the dog API provided. 
+
+I started building this project using my HTML file, making sure my CSS file and Javascript files were tagged in the head and body respectively. 
+
+I used an H1 as my title "Pup-a-Click" (showing that you will get a pup everytime you click the button).
+
+In my image tag, I left it blank upon page arrival purposefully so the first pup you get is a surprise, although you could optionally hard code an image there to start off if you chose to on line 13 in index.html. 
+
+I used a simple button for my button and named it "Click to See a Pup" in conjunction with the name of the page. 
+
+For my functionality, I chose to use a fetch function to call the API and added an EventListener to listen for the click of the button. Upon the click, the function first fetches or collect information from the API, then returns a response that is passed as a parameter to receive the information in json format. Upon receiving the response, the page then renders myContent which is the image information. 
+
+I played around with the CSS for fun on this project. I coordinated the font and color of the text with the button for continuity. I made the background color one of my favorite colors and the sizing to a pleasing and easy to read size. 
+
+I kept the justification of the page to be the center and sized the images to exceed no larger than 400px so the button never got pushed below visibility in the window. 
